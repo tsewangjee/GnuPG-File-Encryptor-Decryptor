@@ -1,0 +1,14 @@
+
+Only passphrase name is CASE SENSITIVE and not Public key name.
+
+So, if for first key we create with the public key name "staffbank" and passphrase "secret".
+And for next key we create Public key name "STAFFBANK" and passphrase "SECRET".
+
+For GPG, both public key names "staffbank" and "STAFFBANK" are same only.
+But it will consider the passphrase of the key which got created first.
+
+So, if we encrypt a file with publickey "STAFFBANK".
+GPG can decrypt that file using passphrase "secret" and not "SECRET" as later was created after the first key.
+
+
+So, always give different names while creating keys.

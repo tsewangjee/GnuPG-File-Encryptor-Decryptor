@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<nhspsb_fw_post_response>
+<file_name>SB_922_FWC_20190201_00007277.XML</file_name>
+<original_file>
+<file_name>SB_922_FLX_20190201_00007277.DAT</file_name>
+<trust_id>922</trust_id>
+<vacancy_ref_number>922-Bank2008</vacancy_ref_number>
+<processed_at>20190201 080020</processed_at>
+</original_file>
+<flexible_worker>
+<staffbank_reference>435639</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134144</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Ex-Employee record will be converted into an Employee</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435640</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134145</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435641</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134146</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435644</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134147</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435646</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134148</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435655</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134149</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435656</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134158</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435657</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134159</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435658</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134401</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435659</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134403</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435660</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134405</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435661</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134406</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435662</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134409</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435665</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134414</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435666</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134415</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435667</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134418</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435668</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134442</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435669</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134444</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435670</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134447</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435672</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134448</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435673</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134450</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435674</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134454</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435675</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134458</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435676</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134480</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435679</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134483</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435682</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134486</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435683</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134488</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435684</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134493</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435685</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134502</assignment_id>
+<load_status_message>
+<load_status_message_type>WARNING</load_status_message_type>
+<load_status_message_text>Value for UKNIN failed validation (Invalid Prefix). The value will be ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435686</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134508</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435687</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134519</assignment_id>
+<load_status_message>
+<load_status_message_type>WARNING</load_status_message_type>
+<load_status_message_text>Value for UKNIN failed validation (Invalid Prefix). The value will be ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435688</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134521</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435689</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134524</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435690</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134526</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435691</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134531</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435692</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134533</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435693</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134534</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435694</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134537</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435695</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134539</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435696</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134540</assignment_id>
+<load_status_message>
+<load_status_message_type>WARNING</load_status_message_type>
+<load_status_message_text>Value for UKNIN failed validation (Invalid Prefix). The value will be ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435697</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134542</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435698</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134553</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435699</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134569</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435700</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134581</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435701</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134586</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435702</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134587</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435703</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134589</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435704</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134593</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435707</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134596</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435710</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134597</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435712</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134600</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435714</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134602</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435716</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134605</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435717</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134606</assignment_id>
+<load_status_message>
+<load_status_message_type>WARNING</load_status_message_type>
+<load_status_message_text>Value for UKNIN failed validation (Invalid Prefix). The value will be ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435718</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134607</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435719</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134610</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435720</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134612</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435721</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134614</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435722</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134617</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435723</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134619</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435724</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134621</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435725</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134623</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435726</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134625</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435727</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134626</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435728</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134629</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435729</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134631</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435730</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134632</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435731</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134634</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435732</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134637</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435733</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134638</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435734</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134641</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435735</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134642</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435736</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134646</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>Value supplied for COUNTY is invalid. Item ignored.</load_status_message_text>
+</load_status_message>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435737</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134648</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435738</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134649</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435739</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134651</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435740</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134653</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435741</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134655</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435742</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134656</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435743</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134658</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435744</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134664</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435745</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134666</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435746</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134667</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435747</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134668</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435748</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134670</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435749</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134674</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435750</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134676</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435751</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134677</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435752</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134680</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435753</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134682</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435754</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134685</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435755</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134689</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435756</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134694</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435757</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134702</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435758</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134703</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435759</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134705</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435760</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134706</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435761</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134707</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435762</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134708</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+<flexible_worker>
+<staffbank_reference>435763</staffbank_reference>
+<load_status_code>SUCCESS</load_status_code>
+<assignment_id>19134708</assignment_id>
+<load_status_message>
+<load_status_message_type>INFO</load_status_message_type>
+<load_status_message_text>NEW Employee will be created</load_status_message_text>
+</load_status_message>
+</flexible_worker>
+</nhspsb_fw_post_response>

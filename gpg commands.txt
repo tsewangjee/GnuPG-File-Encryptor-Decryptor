@@ -1,0 +1,17 @@
+gpg --gen-key	(to generate your keys)
+
+gpg --list-keys	(to list your keys)
+
+gpg --delete-secret-keys "keyname"	(to delete secret key FIRST)
+
+gpg --delete-keys "keyname"	(to delete public key NEXT)
+
+gpg --import "Public key directory"	(to import the public key into your system)
+
+gpg --armor --output pubkey.txt --export 
+gpg --export-secret-keys YOUR_ID_HERE > private.key
+gpg --export-secret-keys --armor 1234ABCD > secret.asc
+
+You can find the ID that you need using the following command. The ID is the second part of the second column:
+
+gpg --list-keys
